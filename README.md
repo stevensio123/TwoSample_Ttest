@@ -26,5 +26,9 @@ This project uses a dataset called `tiktok_dataset.csv`. It contains synthetic d
 | author_ban_status | obj | Indicates the status of the TikTok user who published the video in terms of their permissions: “active,” “under scrutiny,” or “banned.” |
 | video_view_count | float | The total number of times the published video has been viewed. |
 | video_like_count | float | The total number of times the published video has been liked by other users. |
-| video
+| video_share_count | float | The total number of times the published video has been shared by other users. |
+| video_download_count | float | The total number of times the published video has been downloaded by other users. |
+| video_comment_count | float | The total number of comments on the published video. |
+
+Note: Each row represents a different published TikTok video in which a claim/opinion has been made.
 
