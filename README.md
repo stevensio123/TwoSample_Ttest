@@ -4,8 +4,10 @@ The goal of this project is to find out whether unverified users and verified us
 # Methodology:
 Two sample t-test method was used in this project to identify the significance of the difference between the average video view counts of different user types.
 
-# Data Dictionary
+# Executive Summary
+The file "Executive summary.pptx" contains an executive summary of the results of this project ("Activity_Course 4 TikTok project lab").
 
+# Data Dictionary
 This project uses a dataset called `tiktok_dataset.csv`. It contains synthetic data created for this project in partnership with TikTok.
 
 ## Dataset Details
