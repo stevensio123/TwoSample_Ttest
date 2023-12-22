@@ -1,8 +1,5 @@
 # Two Sample T-test project
-The goal of this project is to find out whether unverified users and verified users’ data is statistically different in order find out the details of their relationship. In this project, the variable “video view counts” for users was used to indicate the difference between the users’ type. 
-
-# Methodology:
-Two sample t-test method was used in this project to identify the significance of the difference between the average video view counts of different user types.
+The goal of this project is to find out whether unverified users and verified users’ data is statistically different. Two sample t-test method was used in this project to identify the significance of the difference between the average video view counts of different user types.
 
 # Executive Summary
 The file "Executive summary.pptx" contains an executive summary of the results of this project ("Activity_Course 4 TikTok project lab.pynb").
