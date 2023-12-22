@@ -4,11 +4,11 @@ The goal of this project is to find out whether unverified users and verified us
 # Accessing the Project Notebook
 
 The Jupyter notebook containing the working code can be found at the following file:
-'Activity_Course 4 TikTok project lab.ipynb` , click this file to view it directly in your web browser.
+`Activity_Course 4 TikTok project lab.ipynb` , click this file to view it directly in your web browser.
 
 # Executive Summary
 
-The file "Executive summary.pptx" contains an executive summary of the results of this project ("Activity_Course 4 TikTok project lab.pynb").
+The file `Executive summary.pptx` contains an executive summary of the results of this project.
 
 # Data Dictionary
 This project uses a dataset called `tiktok_dataset.csv`. It contains synthetic data created for this project in partnership with TikTok.
