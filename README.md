@@ -1,7 +1,13 @@
 # Two Sample T-test project
 The goal of this project is to find out whether unverified users and verified users’ data is statistically different. Two sample t-test method was used in this project to identify the significance of the difference between the average video view counts of different user types.
 
+# Accessing the Project Notebook
+
+The Jupyter notebook containing the working code can be found at the following file:
+'Activity_Course 4 TikTok project lab.ipynb` , click this file to view it directly in your web browser.
+
 # Executive Summary
+
 The file "Executive summary.pptx" contains an executive summary of the results of this project ("Activity_Course 4 TikTok project lab.pynb").
 
 # Data Dictionary
